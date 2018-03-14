@@ -1,6 +1,7 @@
 module.exports = {
     "env": {
-        "node": true
+        "node": true,
+        "mocha": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
@@ -24,6 +25,6 @@ module.exports = {
             "always"
         ],
         'no-console': 'off',
-        'no-unused-vars': 'off'
+        'no-unused-vars': 'off',
     }
 };
