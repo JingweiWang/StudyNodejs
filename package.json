@@ -28,7 +28,7 @@
     "zombie": "^6.1.4"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-handlebars": "^5.3.1"
   }
 }
